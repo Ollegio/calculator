@@ -50,12 +50,10 @@ namespace Calculator
         }
 
         public void add(long arg) {
-            //TODO: add test
             currentResult += arg;
         }
 
         public void substract(long arg) {
-            //TODO: add test
             currentResult -= arg;
         }
 
@@ -66,7 +64,7 @@ namespace Calculator
 
         public void divide(long arg) {
             //TODO: add test
-            currentResult /= arg;
+            //TODO: implement
         }
     }
 }
